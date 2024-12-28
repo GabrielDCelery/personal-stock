@@ -1,0 +1,15 @@
+type,lengthInMeters,endAConnector,endAIstrue,encBConnector,endBIstrue
+Ethernet,10,RJ45,true,RJ45,true
+USB,0.7,USB-A,true,USB-A,true
+USB,3,USB-A,true,USB-B,true
+HDMI,2,TypeA,true,TypeA,true
+AUX,3,3.5,true,3.5,false
+USB,0.7,Micro USB,true,USB-A,true
+USB,0.3,Micro USB,true,USB-A,true
+HDMI,2,TypeA,true,TypeA,true
+AUX,1.2,3.5,true,2.5,true
+USB,0.25,Micro USB,true,USB-A,true
+USB,0.1,USB-C,true,USB-A,false
+USB,0.2,USB-C,true,USB-A,true
+USB,0.2,Micro USB,true,USB-A,true
+Coaxial,2,TV Aerial,true,TV Aerial,true
