@@ -1,4 +1,4 @@
-type,lengthInMeters,endAConnector,endAIstrue,encBConnector,endBIstrue,count
+type,lengthInMeters,endAConnector,endAIsMale,encBConnector,endBIsMale,count
 Ethernet,10,RJ45,true,RJ45,true,1
 USB,0.7,USB-A,true,USB-A,true,1
 USB,3,USB-A,true,USB-B,true,1
